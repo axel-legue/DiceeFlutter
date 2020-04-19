@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="710f56e2-8ea5-4800-a262-a6658186ffd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dicee-demo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/dicee-demo.gif" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,12 @@
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Famille\AndroidStudioProjects\dicee-flutter" />
+      <recent name="C:\Users\Famille\AndroidStudioProjects\dicee-flutter\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
